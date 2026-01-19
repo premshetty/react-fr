@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "photos": "Photos",
+    "videos": "Videos",
+    "tags": "Tags",
+    "description": "Description"
+  },
+  "errors": {
+    "not-found": "Property not found"
+  }
+}
